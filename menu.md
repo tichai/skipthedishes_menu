@@ -254,63 +254,54 @@ Options of ciabatta bread or wraps.
 [cover photo](/picture/sandwiches/wraps.jpg)
 
 - **Harvest Brie & Turkey** *9.39*
-
 [cover photo](/picture/sandwiches/brie.jpg)
 
   Turkey, brie cheese, green apple, lettuce, cranberry mayo
   - <modifier_bread>
 
 - **Prosciutto & Brie** *9.69*
-
 [cover photo](/picture/sandwiches/pb.jpg)
 
   Prosciutto, brie cheese, spring mix, fig jam
   - <modifier_bread>
 
 - **Baja Chicken Avocado** *9.69*
-
 [cover photo](/picture/sandwiches/baja.jpg)
 
   Grilled chicken breast, Swiss cheese, avocado, lettuce, tomato, jalapeño lime aioli
   - <modifier_bread>
 
 - **Crazy Quinoa Bomb** *9.39*
-
 [cover photo](/picture/sandwiches/quinoa.jpg)
 
   Quinoa bites, lettuce, red pepper, tomato, cilantro pepita sauce
   - <modifier_bread>
 
 - **Chili Lime Tilapia & Mango Salsa** *9.69*
-
 [cover photo](/picture/sandwiches/CHILILIME-JUNE2018.jpg)
 
   Tilapia, mango, tomato, onion, salt&pepper, lettuce, mayonnaise
   - <modifier_bread>
 
 - **Red Garbanzo Chicken** *9.39*
-
 [cover photo](/picture/sandwiches/rgc.jpg)
 
   Grilled chicken breast, cucumber, red pepper, tomato, alfalfa sprout, red pepper hummus
   - <modifier_bread>
 
 - **Mediterranean Feta** *9.19*
-
 [cover photo](/picture/sandwiches/feta.jpg)
 
   Roasted eggplant, pepper, zucchini, feta cheese, pesto
   - <modifier_bread>
 
 - **Farmhouse Goat Cheese Chicken** *9.69*
-
 [cover photo](/picture/sandwiches/goat.jpg)
 
   Grilled chicken breast, goat cheese, roasted pepper, pesto
   - <modifier_bread>
 
 - **Mighty Tempeh** *9.19*
-
 [cover photo](/picture/sandwiches/.jpg)
 
   Organic Tempeh, alfalfa sprout, carrot, lettuce, red cabbage, tomato, jalapeño lime aioli
@@ -322,28 +313,24 @@ Made with skim milk, low fat frozen yogurt and 100% real fruits.
 Vegan smoothies available upon request. Made with organic almond milk and 100% real fruits.
 
 - **Strawnana** *5.89*
-
 [cover photo](/picture/smoothies/stra.jpg)
 
   Strawberry, banana.
   - ``<modifier_smoothie>``
   - ``<modifier_smoothie_vegan>``
 - **Green Warrior** *6.89*
-
 [cover photo](/picture/smoothies/avo.jpg)
 
   Avocado, spinach, pineapple.
   - ``<modifier_smoothie>``
   - ``<modifier_smoothie_vegan>``
 - **Mango Tango** *5.89*
-
 [cover photo](/picture/smoothies/trpmg.jpg)
 
   Mango, pineapple.
   - ``<modifier_smoothie>``
   - ``<modifier_smoothie_vegan>``
 - **Very Berry** *5.89*
-
 [cover photo](/picture/smoothies/vb.jpg)
 
   Strawberry, raspberry, blueberry.
@@ -356,14 +343,12 @@ Vegan smoothies available upon request. Made with organic almond milk and 100% r
   - ``<modifier_smoothie>``
   - ``<modifier_smoothie_vegan>``
 - **Blueberry Whirl** *5.89*
-
 [cover photo](/picture/smoothies/blub.jpg)
 
   Blueberry, banana
   - ``<modifier_smoothie>``
   - ``<modifier_smoothie_vegan>``
 - **Gotcha Matcha** *5.89*
-
 [cover photo](/picture/smoothies/mt.jpg)
 
   Matcha powder
@@ -434,11 +419,9 @@ Try our new vegan smoothie bowls.
 ## Beverages
 
 - **Naya Natural Spring Water** *2.49*
-
 [cover photo](/picture/baverage/naya.jpg)
 
 - **Montellier Sparkling Water** *3.29*
-
 [cover photo](/picture/baverage/mont.jpg)
 
   - **Choose a Flavour**
@@ -446,7 +429,6 @@ Try our new vegan smoothie bowls.
     - Lime (355ml)
     - Lemon (355ml)
 - **Bottled Pop** *3.29*
-
 [cover photo](/picture/baverage/pop.jpg)
 
   - **Choose a Flavour**
@@ -455,7 +437,6 @@ Try our new vegan smoothie bowls.
     - Schweppes Ginger Ale (591ml)
     - Brisk Iced Tea (591ml)
 - **Pure Leaf Iced Tea** *3.99*
-
 [cover photo](/picture/baverage/pureleaf.jpg)
 
   - **Choose a Flavour**
@@ -465,14 +446,12 @@ Try our new vegan smoothie bowls.
     - Green Tea with Honey
     - Pomegranate
 - **Rise Kombucha** *6.19*
-
 [cover photo](/picture/baverage/rise-kombucha-rose-schizandra-Kombucha_828.jpg)
 
   - **Choose a Flavour**
     - Ginger
     - Hibiscus & Rose Hips
 - **Coffee** *2.39*
-
 [cover photo](/picture/baverage/coffee.jpg)
 
   - ``<modifier_coffee_cond>``
@@ -495,17 +474,13 @@ Try our new vegan smoothie bowls.
 [cover photo](/picture/treats/treats.jpg)
 
 - **Banana Bread** *3.29*
-
 [cover photo](/picture/treats/banana.jpg)
 
 - **Lemon & Poppyseeds Cake** *3.29*
-
 [cover photo](/picture/treats/Lemon-Poppy-Seed-Bread-680x680.jpg)
 
 - **Carrot & Pineapple Cake** *3.29*
-
 [cover photo](/picture/treats/0026765300000.jpg)
 
 - **Chocolate Marble Cake** *3.29*
-
 [cover photo](/picture/treats/chocolate.jpg)

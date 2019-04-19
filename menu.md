@@ -336,24 +336,24 @@ Vegan smoothies available upon request. Made with organic almond milk and 100% r
 Try our new vegan smoothie bowls.
 
 - **Strawberry Dream** *8.39*
-  Base: Strawberry, Banana, Almond Milk
-  Toppings: Granola, Strawberry, Blueberry, Pumpkin Seeds, Chia Seeds
+  - Base: Strawberry, Banana, Almond Milk
+  - Toppings: Granola, Strawberry, Blueberry, Pumpkin Seeds, Chia Seeds
 
 - **Green Glow** *8.79*
-  Base: Spinach, Banana, Avocado, Almond Milk
-  Toppings: Raspberry, Kiwi, Chia Seeds, Banana
+  - Base: Spinach, Banana, Avocado, Almond Milk
+  - Toppings: Raspberry, Kiwi, Chia Seeds, Banana
 
 - **Cocoa-Nut** *8.39*
-  Base: Banana, Peanut Butter, Cocoa Powder
-  Toppings: Strawberry, Granola, Chopped Peanuts, Banana
+  - Base: Banana, Peanut Butter, Cocoa Powder
+  - Toppings: Strawberry, Granola, Chopped Peanuts, Banana
 
 - **Blue Spartan** *8.59*
-  Base: Blueberry, Peanut Butter, Banana, Almond Milk
-  Toppings: Blueberry, Chia Seeds, Coconut
+  - Base: Blueberry, Peanut Butter, Banana, Almond Milk
+  - Toppings: Blueberry, Chia Seeds, Coconut
 
 - **Aloha** *8.79*
-  Base: Banana, Mango, Pineapple, Almond Milk
-  Toppings: Coconut, Chia Seeds, Mango, Kiwi
+  - Base: Banana, Mango, Pineapple, Almond Milk
+  - Toppings: Coconut, Chia Seeds, Mango, Kiwi
 
 ## Beverages
 

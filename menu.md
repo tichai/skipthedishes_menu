@@ -60,6 +60,7 @@ Our famous Cultures Bowls are a customer favorite! Fresh toppings are served on 
 
 - **Southwest** *12.39*
 [cover photo](/picture/bowls/CULTURES_WEB-MENU_BOWLS-Southwest_350x350_MAR19-300x300.jpg)
+
   Cheddar cheese, avocado, tomato, corn, oven baked sweet potato, chipotle dressing.
   - <modifier_protein>
   - <modifier_drinks>
@@ -69,6 +70,7 @@ Our famous Cultures Bowls are a customer favorite! Fresh toppings are served on 
 
 - **California** *12.39*
 [cover photo](/picture/bowls/CULTURES_WEB-MENU_BOWLS-California_350x350_MAR192-300x300.jpg)
+
   Egg, avocado, tomato, shredded carrot, chipotle dressing.
   - <modifier_protein>
   - <modifier_drinks>
@@ -78,6 +80,7 @@ Our famous Cultures Bowls are a customer favorite! Fresh toppings are served on 
 
 - **Mediterranean** *12.39*
 [cover photo](/picture/bowls/CULTURES_WEB-MENU_BOWLS-Mediterranean_350x350_MAR192-300x300.jpg)
+
   Baby spinach, black olive, tomato, cucumber, red onion, red pepper hummus.
   - <modifier_protein>
   - <modifier_drinks>
@@ -87,6 +90,7 @@ Our famous Cultures Bowls are a customer favorite! Fresh toppings are served on 
 
 - **Peru** *12.19*
 [cover photo](/picture/bowls/CULTURES_WEB-MENU_BOWLS-Peru_350x350_MAR19-300x300.jpg)
+
   Beet, roasted cauliflower, roasted red pepper, roasted zucchini, alfalfa sprout, chipotle dressing.
   - <modifier_protein>
   - <modifier_drinks>
@@ -96,6 +100,7 @@ Our famous Cultures Bowls are a customer favorite! Fresh toppings are served on 
 
 - **Zen** *12.39*
 [cover photo](/picture/bowls/CULTURES_WEB-MENU_BOWLS-Zen_350x350_MAR192-300x300.jpg)
+
   Tomato, edamame, mango, shredded carrot, cilantro pepita sauce.
   - <modifier_protein>
   - <modifier_drinks>
@@ -105,6 +110,7 @@ Our famous Cultures Bowls are a customer favorite! Fresh toppings are served on 
 
 - **Bali** *12.19*
 [cover photo](/picture/bowls/CULTURES_WEB-MENU_BOWLS-Bali_350x350_MAR192-300x300.jpg)
+
   Baby spinach, edamame, red cabbage, shredded carrot, asian sesame dressing.
   - <modifier_protein>
   - <modifier_drinks>
@@ -117,8 +123,10 @@ Our famous Cultures Bowls are a customer favorite! Fresh toppings are served on 
 Hearty meal size salads filled with premium ingredients
 [cover photo](/picture/salads/mighty-salad-panel.jpg)
 
+
 - **Powerhouse**  *11.79*
 [cover photo](/picture/salads/CULTURES_WEB-MENU_SALAD-Powerhouse_350x350_FEB19-300x300.jpg)
+
   Kale, quinoa, broccoli, shredded carrot, roasted cauliflower, strawberry, pumpkin seed, poppyseed dressing.
   - <modifier_protein_extra>
   - <modifier_drinks>
@@ -128,6 +136,7 @@ Hearty meal size salads filled with premium ingredients
 
 - **Oriental Mango Chicken** *13.19*
 [cover photo](/picture/salads/CULTURES_WEB-MENU_SALAD-Oriental-Mango_350x350_FEB19-300x300.jpg)
+
   Almond, edamame, mango, red cabbage, red pepper, shredded carrot, spring mix, asian sesame dressing.
   - <modifier_protein>
   - <modifier_drinks>
@@ -137,6 +146,7 @@ Hearty meal size salads filled with premium ingredients
 
 - **California** *12.89*
 [cover photo](/picture/salads/CULTURES_WEB-MENU_SALAD-California_350x350_FEB19-300x300.jpg)
+
   Egg, bacon, avocado, tomato, shredded carrot, romaine, honey dijon dressing.
   - <modifier_protein>
   - <modifier_drinks>
@@ -146,6 +156,7 @@ Hearty meal size salads filled with premium ingredients
 
 - **Kale Chicken Caesar** *12.89*
 [cover photo](/picture/salads/CULTURES_WEB-MENU_SALAD-Kale-Chicken_350x350_FEB19-300x300.jpg)
+
   Bacon, crouton, kale, parmesan, romaine, caesar dressing.
   - <modifier_protein>
   - <modifier_drinks>
@@ -155,6 +166,7 @@ Hearty meal size salads filled with premium ingredients
 
 - **Super Greek** *12.89*
 [cover photo](/picture/salads/CULTURES_WEB-MENU_SALAD-Super-Greek_350x350_FEB19-300x300.jpg)
+
   Feta cheese, black olive, tomato, chickpea, cucumber, quinoa, spring mix, greek feta dressing.
   - <modifier_protein>
   - <modifier_drinks>
@@ -168,18 +180,22 @@ Hearty meal size salads filled with premium ingredients
 
 - **Broccoli and Cheese Quiche** *8.09*
 [cover photo](/picture/quiches/broccoli.jpg)
+
   Broccoli, egg, milk, cheese
 
 - **Ham and Cheese Quiche** *8.09*
 [cover photo](/picture/quiches/ham.jpg)
+
   Ham, egg, milk, cheese
 
 - **Spinach Quiche** *8.09*
 [cover photo](/picture/quiches/spinach.jpg)
+
   Spinach, egg, milk, cheese
 
 - **Chicken Pot Pie** *8.09*
 [cover photo](/picture/quiches/pie.jpg)
+
   Chicken, carrot, peas, onion, milk, parsley
 
 ## À la carte - Marketplace Salads
@@ -239,46 +255,55 @@ Options of ciabatta bread or wraps.
 
 - **Harvest Brie & Turkey** *9.39*
 [cover photo](/picture/sandwiches/brie.jpg)
+
   Turkey, brie cheese, green apple, lettuce, cranberry mayo
   - <modifier_bread>
 
 - **Prosciutto & Brie** *9.69*
 [cover photo](/picture/sandwiches/pb.jpg)
+
   Prosciutto, brie cheese, spring mix, fig jam
   - <modifier_bread>
 
 - **Baja Chicken Avocado** *9.69*
 [cover photo](/picture/sandwiches/baja.jpg)
+
   Grilled chicken breast, Swiss cheese, avocado, lettuce, tomato, jalapeño lime aioli
   - <modifier_bread>
 
 - **Crazy Quinoa Bomb** *9.39*
 [cover photo](/picture/sandwiches/quinoa.jpg)
+
   Quinoa bites, lettuce, red pepper, tomato, cilantro pepita sauce
   - <modifier_bread>
 
 - **Chili Lime Tilapia & Mango Salsa** *9.69*
 [cover photo](/picture/sandwiches/CHILILIME-JUNE2018.jpg)
+
   Tilapia, mango, tomato, onion, salt&pepper, lettuce, mayonnaise
   - <modifier_bread>
 
 - **Red Garbanzo Chicken** *9.39*
 [cover photo](/picture/sandwiches/rgc.jpg)
+
   Grilled chicken breast, cucumber, red pepper, tomato, alfalfa sprout, red pepper hummus
   - <modifier_bread>
 
 - **Mediterranean Feta** *9.19*
 [cover photo](/picture/sandwiches/feta.jpg)
+
   Roasted eggplant, pepper, zucchini, feta cheese, pesto
   - <modifier_bread>
 
 - **Farmhouse Goat Cheese Chicken** *9.69*
 [cover photo](/picture/sandwiches/goat.jpg)
+
   Grilled chicken breast, goat cheese, roasted pepper, pesto
   - <modifier_bread>
 
 - **Mighty Tempeh** *9.19*
 [cover photo](/picture/sandwiches/.jpg)
+
   Organic Tempeh, alfalfa sprout, carrot, lettuce, red cabbage, tomato, jalapeño lime aioli
   - <modifier_bread>
 
@@ -289,36 +314,43 @@ Vegan smoothies available upon request. Made with organic almond milk and 100% r
 
 - **Strawnana** *5.89*
 [cover photo](/picture/smoothies/stra.jpg)
+
   Strawberry, banana.
   - ``<modifier_smoothie>``
   - ``<modifier_smoothie_vegan>``
 - **Green Warrior** *6.89*
 [cover photo](/picture/smoothies/avo.jpg)
+
   Avocado, spinach, pineapple.
   - ``<modifier_smoothie>``
   - ``<modifier_smoothie_vegan>``
 - **Mango Tango** *5.89*
 [cover photo](/picture/smoothies/trpmg.jpg)
+
   Mango, pineapple.
   - ``<modifier_smoothie>``
   - ``<modifier_smoothie_vegan>``
 - **Very Berry** *5.89*
 [cover photo](/picture/smoothies/vb.jpg)
+
   Strawberry, raspberry, blueberry.
   - ``<modifier_smoothie>``
   - ``<modifier_smoothie_vegan>``
 - **Strawberry Madness** *5.89*
 [cover photo](/picture/smoothies/stram.jpg)
+
   Strawberry, banana, pineapple
   - ``<modifier_smoothie>``
   - ``<modifier_smoothie_vegan>``
 - **Blueberry Whirl** *5.89*
 [cover photo](/picture/smoothies/blub.jpg)
+
   Blueberry, banana
   - ``<modifier_smoothie>``
   - ``<modifier_smoothie_vegan>``
 - **Gotcha Matcha** *5.89*
 [cover photo](/picture/smoothies/mt.jpg)
+
   Matcha powder
   - ``<modifier_smoothie>``
   - ``<modifier_smoothie_vegan>``
@@ -388,14 +420,17 @@ Try our new vegan smoothie bowls.
 
 - **Naya Natural Spring Water** *2.49*
 [cover photo](/picture/baverage/naya.jpg)
+
 - **Montellier Sparkling Water** *3.29*
 [cover photo](/picture/baverage/mont.jpg)
+
   - **Choose a Flavour**
     - Original (500ml)
     - Lime (355ml)
     - Lemon (355ml)
 - **Bottled Pop** *3.29*
 [cover photo](/picture/baverage/pop.jpg)
+
   - **Choose a Flavour**
     - Pepsi (591ml)
     - Diet Pepsi	 (591ml)
@@ -403,6 +438,7 @@ Try our new vegan smoothie bowls.
     - Brisk Iced Tea (591ml)
 - **Pure Leaf Iced Tea** *3.99*
 [cover photo](/picture/baverage/pureleaf.jpg)
+
   - **Choose a Flavour**
     - Unsweetened Lemon	
     - Peach
@@ -411,11 +447,13 @@ Try our new vegan smoothie bowls.
     - Pomegranate
 - **Rise Kombucha** *6.19*
 [cover photo](/picture/baverage/rise-kombucha-rose-schizandra-Kombucha_828.jpg)
+
   - **Choose a Flavour**
     - Ginger
     - Hibiscus & Rose Hips
 - **Coffee** *2.39*
 [cover photo](/picture/baverage/coffee.jpg)
+
   - ``<modifier_coffee_cond>``
 - **Tea** *2.39*
   - Choose a Tea
@@ -437,9 +475,12 @@ Try our new vegan smoothie bowls.
 
 - **Banana Bread** *3.29*
 [cover photo](/picture/treats/banana.jpg)
+
 - **Lemon & Poppyseeds Cake** *3.29*
 [cover photo](/picture/treats/Lemon-Poppy-Seed-Bread-680x680.jpg)
+
 - **Carrot & Pineapple Cake** *3.29*
 [cover photo](/picture/treats/0026765300000.jpg)
+
 - **Chocolate Marble Cake** *3.29*
 [cover photo](/picture/treats/chocolate.jpg)

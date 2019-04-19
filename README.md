@@ -11,16 +11,15 @@ Last Update: Apr 18, 2019
 
 ## Menu Structures Overview
 
-- **Section Title**
-  Section Pictrue (if applicable)
-  Section Description (if applicable)
+- **Section Title** [link to section photo](#section-title)
+  - Section Pictrue (if applicable)
+  - Section Description (if applicable)
 
-  - **Item Title** *Price*
-    Item Pictrue (if applicable)
-    Item Description
-    - Item Modifiers Tags (if applicable)
-    - Item Modifier Title (if applicable)
-      Item Modifier Description (if applicable)
+  - **Item Title** *Price* [link to item photo](#item-title)
+    - Item Description
+      - Item Modifiers Tags (if applicable)
+      - Item Modifier Title (if applicable)
+      - Item Modifier Description (if applicable)
       - Modifier Option *price*
 
 ## Modifier

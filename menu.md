@@ -47,7 +47,7 @@ Our famous Bangkok Bowl
     - [```<modifier_combo_side>```](/modifier/modifier_combo_side.md)
     - [```<modifier_combo_drinks>```](/modifier/modifier_combo_drinks.md)
 
-- **Just-A-Bite** *9.99*
+- **Just-A-Bite** *10.99*
   - Choice of grilled cheese or large soup, one side salad, and a bottle of water. 260-510 cals.
     - **Pick an Entrée**
       - Daily Veggie Soup
@@ -56,7 +56,7 @@ Our famous Bangkok Bowl
     - [```<modifier_combo_side>```](/modifier/modifier_combo_side.md)
     - [```<modifier_combo_drinks>```](/modifier/modifier_combo_drinks.md)
 
-- **Tea Time** *6.19*
+- **Tea Time** *6.79*
   - Choice of sweet treat, fruit salad, and a tea or coffee. 340-450 cals.
     - **Pick a Treat**
       - Banana Bread
